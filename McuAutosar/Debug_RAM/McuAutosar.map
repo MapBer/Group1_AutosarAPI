@@ -1,0 +1,673 @@
+Archive member included because of file (symbol)
+
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o (exit)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-init.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o (__libc_init_array)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-memset.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o (memset)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (atexit)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-fini.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a(_exit.o)
+                              D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x4 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o
+ .group         0x00000000        0x8 ./Autosar/Det/src/Det.o
+ .text          0x00000000        0x0 ./Autosar/Det/src/Det.o
+ .data          0x00000000        0x0 ./Autosar/Det/src/Det.o
+ .bss           0x00000000        0x0 ./Autosar/Det/src/Det.o
+ .debug_info    0x00000000       0x21 ./Autosar/Det/src/Det.o
+ .debug_abbrev  0x00000000       0x13 ./Autosar/Det/src/Det.o
+ .debug_aranges
+                0x00000000       0x18 ./Autosar/Det/src/Det.o
+ .debug_macro   0x00000000       0x11 ./Autosar/Det/src/Det.o
+ .debug_macro   0x00000000      0x868 ./Autosar/Det/src/Det.o
+ .debug_line    0x00000000       0x39 ./Autosar/Det/src/Det.o
+ .debug_str     0x00000000     0x2460 ./Autosar/Det/src/Det.o
+ .comment       0x00000000       0x71 ./Autosar/Det/src/Det.o
+ .ARM.attributes
+                0x00000000       0x33 ./Autosar/Det/src/Det.o
+ .group         0x00000000        0x8 ./Autosar/Mcu/src/Mcu.o
+ .text          0x00000000        0x0 ./Autosar/Mcu/src/Mcu.o
+ .data          0x00000000        0x0 ./Autosar/Mcu/src/Mcu.o
+ .bss           0x00000000        0x0 ./Autosar/Mcu/src/Mcu.o
+ .debug_info    0x00000000       0x21 ./Autosar/Mcu/src/Mcu.o
+ .debug_abbrev  0x00000000       0x13 ./Autosar/Mcu/src/Mcu.o
+ .debug_aranges
+                0x00000000       0x18 ./Autosar/Mcu/src/Mcu.o
+ .debug_macro   0x00000000       0x11 ./Autosar/Mcu/src/Mcu.o
+ .debug_macro   0x00000000      0x868 ./Autosar/Mcu/src/Mcu.o
+ .debug_line    0x00000000       0x39 ./Autosar/Mcu/src/Mcu.o
+ .debug_str     0x00000000     0x2460 ./Autosar/Mcu/src/Mcu.o
+ .comment       0x00000000       0x71 ./Autosar/Mcu/src/Mcu.o
+ .ARM.attributes
+                0x00000000       0x33 ./Autosar/Mcu/src/Mcu.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/startup.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rodata.s_vectors
+                0x00000000        0x4 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000000      0x868 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .FlashConfig   0x00000000       0x10 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/system_S32K144.o
+ .data.SystemCoreClock
+                0x00000000        0x4 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xe8 ./Project_Settings/Startup_Code/system_S32K144.o
+ .text.SystemSoftwareReset
+                0x00000000       0x40 ./Project_Settings/Startup_Code/system_S32K144.o
+ .rodata.fircFreq.5163
+                0x00000000        0x4 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x868 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x10 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x7a ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x44 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0xe3 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0x1df ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000      0xb86 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x00000000       0x22 ./Project_Settings/Startup_Code/system_S32K144.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x868 ./src/main.o
+ .debug_macro   0x00000000       0x19 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x44 ./src/main.o
+ .debug_macro   0x00000000       0xe3 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000      0x1df ./src/main.o
+ .debug_macro   0x00000000     0xed1d ./src/main.o
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .data          0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .text          0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .data          0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .bss           0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x1fff8000         0x00000400         xr
+m_text           0x1fff8400         0x00007c00         xr
+m_data           0x20000000         0x00007000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+LOAD d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+LOAD D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o
+LOAD ./Autosar/Det/src/Det.o
+LOAD ./Autosar/Mcu/src/Mcu.o
+LOAD ./Project_Settings/Startup_Code/startup.o
+LOAD ./Project_Settings/Startup_Code/startup_S32K144.o
+LOAD ./Project_Settings/Startup_Code/system_S32K144.o
+LOAD ./src/main.o
+START GROUP
+LOAD d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a
+END GROUP
+START GROUP
+LOAD d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a
+LOAD D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a
+END GROUP
+LOAD d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+LOAD d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x00000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x00000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x1fff8000      0x400
+                0x1fff8000                __VECTOR_TABLE = .
+                0x1fff8000                __interrupts_start__ = .
+                0x1fff8000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x1fff8000      0x400 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x1fff8000                __isr_vector
+                0x1fff8400                __interrupts_end__ = .
+                0x1fff8400                . = ALIGN (0x4)
+                0x1fff8000                __VECTOR_RAM = __VECTOR_TABLE
+                0x00000000                __RAM_VECTOR_TABLE_SIZE = 0x0
+
+.text           0x1fff8400      0x568
+                0x1fff8400                . = ALIGN (0x4)
+ *(.text)
+ .text          0x1fff8400       0x5c d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .text          0x1fff845c       0x74 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o
+                0x1fff845c                _start
+                0x1fff845c                _mainCRTStartup
+ .text          0x1fff84d0       0x44 ./Project_Settings/Startup_Code/startup_S32K144.o
+                0x1fff84d0                Reset_Handler
+                0x1fff8510                DebugMon_Handler
+                0x1fff8510                Reserved88_IRQHandler
+                0x1fff8510                CAN0_ORed_IRQHandler
+                0x1fff8510                HardFault_Handler
+                0x1fff8510                Reserved86_IRQHandler
+                0x1fff8510                Reserved103_IRQHandler
+                0x1fff8510                SysTick_Handler
+                0x1fff8510                FTM2_Ovf_Reload_IRQHandler
+                0x1fff8510                Reserved50_IRQHandler
+                0x1fff8510                FTFC_Fault_IRQHandler
+                0x1fff8510                FTM0_Ch6_Ch7_IRQHandler
+                0x1fff8510                Reserved114_IRQHandler
+                0x1fff8510                PendSV_Handler
+                0x1fff8510                NMI_Handler
+                0x1fff8510                Reserved89_IRQHandler
+                0x1fff8510                ERM_double_fault_IRQHandler
+                0x1fff8510                DMA2_IRQHandler
+                0x1fff8510                Reserved59_IRQHandler
+                0x1fff8510                LPIT0_Ch0_IRQHandler
+                0x1fff8510                Reserved99_IRQHandler
+                0x1fff8510                FTM3_Ch6_Ch7_IRQHandler
+                0x1fff8510                CAN2_ORed_0_15_MB_IRQHandler
+                0x1fff8510                LPIT0_Ch3_IRQHandler
+                0x1fff8510                Reserved92_IRQHandler
+                0x1fff8510                FTM0_Ch4_Ch5_IRQHandler
+                0x1fff8510                CAN1_Error_IRQHandler
+                0x1fff8510                FTM3_Ch0_Ch1_IRQHandler
+                0x1fff8510                SWI_IRQHandler
+                0x1fff8510                ADC0_IRQHandler
+                0x1fff8510                FTM2_Ch4_Ch5_IRQHandler
+                0x1fff8510                UsageFault_Handler
+                0x1fff8510                FTM0_Ovf_Reload_IRQHandler
+                0x1fff8510                DefaultISR
+                0x1fff8510                DMA9_IRQHandler
+                0x1fff8510                Reserved58_IRQHandler
+                0x1fff8510                CAN1_ORed_0_15_MB_IRQHandler
+                0x1fff8510                FTM1_Ch2_Ch3_IRQHandler
+                0x1fff8510                DMA14_IRQHandler
+                0x1fff8510                Reserved82_IRQHandler
+                0x1fff8510                CAN0_ORed_16_31_MB_IRQHandler
+                0x1fff8510                LPI2C0_Slave_IRQHandler
+                0x1fff8510                Reserved71_IRQHandler
+                0x1fff8510                PORTD_IRQHandler
+                0x1fff8510                Reserved69_IRQHandler
+                0x1fff8510                PORTB_IRQHandler
+                0x1fff8510                Reserved70_IRQHandler
+                0x1fff8510                ADC1_IRQHandler
+                0x1fff8510                FTM2_Ch2_Ch3_IRQHandler
+                0x1fff8510                Reserved53_IRQHandler
+                0x1fff8510                DMA5_IRQHandler
+                0x1fff8510                RTC_IRQHandler
+                0x1fff8510                PDB0_IRQHandler
+                0x1fff8510                Reserved54_IRQHandler
+                0x1fff8510                FTM2_Ch6_Ch7_IRQHandler
+                0x1fff8510                FTM3_Ch2_Ch3_IRQHandler
+                0x1fff8510                FTM2_Ch0_Ch1_IRQHandler
+                0x1fff8510                LPSPI1_IRQHandler
+                0x1fff8510                LPUART1_RxTx_IRQHandler
+                0x1fff8510                RTC_Seconds_IRQHandler
+                0x1fff8510                CAN2_ORed_IRQHandler
+                0x1fff8510                Reserved72_IRQHandler
+                0x1fff8510                Reserved110_IRQHandler
+                0x1fff8510                DMA11_IRQHandler
+                0x1fff8510                Reserved107_IRQHandler
+                0x1fff8510                Read_Collision_IRQHandler
+                0x1fff8510                CAN2_Error_IRQHandler
+                0x1fff8510                FTFC_IRQHandler
+                0x1fff8510                DMA7_IRQHandler
+                0x1fff8510                FTM1_Ch6_Ch7_IRQHandler
+                0x1fff8510                Reserved105_IRQHandler
+                0x1fff8510                LPIT0_Ch1_IRQHandler
+                0x1fff8510                FTM1_Ch4_Ch5_IRQHandler
+                0x1fff8510                FTM3_Ovf_Reload_IRQHandler
+                0x1fff8510                LPUART2_RxTx_IRQHandler
+                0x1fff8510                LPSPI0_IRQHandler
+                0x1fff8510                WDOG_EWM_IRQHandler
+                0x1fff8510                MemManage_Handler
+                0x1fff8510                Reserved90_IRQHandler
+                0x1fff8510                Reserved83_IRQHandler
+                0x1fff8510                FTM0_Fault_IRQHandler
+                0x1fff8510                Reserved48_IRQHandler
+                0x1fff8510                SVC_Handler
+                0x1fff8510                ERM_single_fault_IRQHandler
+                0x1fff8510                FTM2_Fault_IRQHandler
+                0x1fff8510                FTM0_Ch2_Ch3_IRQHandler
+                0x1fff8510                DMA13_IRQHandler
+                0x1fff8510                FTM0_Ch0_Ch1_IRQHandler
+                0x1fff8510                FTM3_Fault_IRQHandler
+                0x1fff8510                RCM_IRQHandler
+                0x1fff8510                DMA3_IRQHandler
+                0x1fff8510                Reserved100_IRQHandler
+                0x1fff8510                DMA0_IRQHandler
+                0x1fff8510                Reserved91_IRQHandler
+                0x1fff8510                CAN1_ORed_IRQHandler
+                0x1fff8510                DMA15_IRQHandler
+                0x1fff8510                SCG_IRQHandler
+                0x1fff8510                PDB1_IRQHandler
+                0x1fff8510                Reserved81_IRQHandler
+                0x1fff8510                Reserved46_IRQHandler
+                0x1fff8510                Reserved45_IRQHandler
+                0x1fff8510                CAN0_Error_IRQHandler
+                0x1fff8510                Reserved112_IRQHandler
+                0x1fff8510                LPI2C0_Master_IRQHandler
+                0x1fff8510                DMA4_IRQHandler
+                0x1fff8510                FTM1_Fault_IRQHandler
+                0x1fff8510                Reserved106_IRQHandler
+                0x1fff8510                DMA_Error_IRQHandler
+                0x1fff8510                LVD_LVW_IRQHandler
+                0x1fff8510                LPIT0_Ch2_IRQHandler
+                0x1fff8510                PORTA_IRQHandler
+                0x1fff8510                MCM_IRQHandler
+                0x1fff8510                LPSPI2_IRQHandler
+                0x1fff8510                DMA12_IRQHandler
+                0x1fff8510                FTM3_Ch4_Ch5_IRQHandler
+                0x1fff8510                CAN0_ORed_0_15_MB_IRQHandler
+                0x1fff8510                PORTE_IRQHandler
+                0x1fff8510                LPUART0_RxTx_IRQHandler
+                0x1fff8510                LPTMR0_IRQHandler
+                0x1fff8510                BusFault_Handler
+                0x1fff8510                Reserved87_IRQHandler
+                0x1fff8510                FTM1_Ovf_Reload_IRQHandler
+                0x1fff8510                DMA8_IRQHandler
+                0x1fff8510                Reserved93_IRQHandler
+                0x1fff8510                DMA10_IRQHandler
+                0x1fff8510                CAN0_Wake_Up_IRQHandler
+                0x1fff8510                CMP0_IRQHandler
+                0x1fff8510                Reserved52_IRQHandler
+                0x1fff8510                PORTC_IRQHandler
+                0x1fff8510                DMA6_IRQHandler
+                0x1fff8510                FTM1_Ch0_Ch1_IRQHandler
+                0x1fff8510                FLEXIO_IRQHandler
+                0x1fff8510                DMA1_IRQHandler
+                0x1fff8510                Reserved113_IRQHandler
+ *(.text*)
+ .text.init_data_bss
+                0x1fff8514      0x128 ./Project_Settings/Startup_Code/startup.o
+                0x1fff8514                init_data_bss
+ .text.SystemInit
+                0x1fff863c       0x30 ./Project_Settings/Startup_Code/system_S32K144.o
+                0x1fff863c                SystemInit
+ .text.main     0x1fff866c        0x8 ./src/main.o
+                0x1fff866c                main
+ .text.exit     0x1fff8674       0x20 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o)
+                0x1fff8674                exit
+ .text.__libc_init_array
+                0x1fff8694       0x50 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-init.o)
+                0x1fff8694                __libc_init_array
+ .text.memset   0x1fff86e4       0x9c D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-memset.o)
+                0x1fff86e4                memset
+ .text.startup.register_fini
+                0x1fff8780       0x14 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x1fff8794       0xd4 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                0x1fff8794                __call_exitprocs
+ .text.atexit   0x1fff8868        0xc D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                0x1fff8868                atexit
+ .text.__libc_fini_array
+                0x1fff8874       0x2c D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-fini.o)
+                0x1fff8874                __libc_fini_array
+ .text.__register_exitproc
+                0x1fff88a0       0xa4 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                0x1fff88a0                __register_exitproc
+ .text._exit    0x1fff8944        0x4 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a(_exit.o)
+                0x1fff8944                _exit
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.4
+                0x1fff8948        0x4 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+                                  0x2 (size before relaxing)
+ .rodata._global_impure_ptr
+                0x1fff894c        0x4 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x1fff894c                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x1fff8950        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ *(.init)
+ .init          0x1fff8950        0x4 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x1fff8950                _init
+ .init          0x1fff8954        0x8 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x1fff895c        0x4 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x1fff895c                _fini
+ .fini          0x1fff8960        0x8 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x1fff8968                . = ALIGN (0x4)
+
+.vfp11_veneer   0x1fff8968        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x1fff8968        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x1fff8968        0x0
+ .iplt          0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.code_ram       0x1fff8968        0x0
+                0x1fff8968                . = ALIGN (0x4)
+                0x1fff8968                __CODE_RAM = .
+                0x1fff8968                __code_ram_start__ = .
+ *(.code_ram)
+                0x1fff8968                __CODE_ROM = .
+                0x1fff8968                __CODE_END = .
+                0x1fff8968                __code_ram_end__ = .
+                0x1fff8968                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x1fff8968        0x8
+                0x1fff8968                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x1fff8968        0x8 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o
+                0x1fff8970                __exidx_end = .
+
+.rel.dyn        0x1fff8970        0x0
+ .rel.iplt      0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.ctors          0x1fff8970        0x0
+                0x1fff8970                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x1fff8970                __CTOR_END__ = .
+
+.dtors          0x1fff8970        0x0
+                0x1fff8970                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x1fff8970                __DTOR_END__ = .
+
+.preinit_array  0x1fff8970        0x0
+                0x1fff8970                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x1fff8970                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x1fff8970        0x8
+                0x1fff8970                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x1fff8970        0x4 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x1fff8974        0x4 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x1fff8978                PROVIDE (__init_array_end, .)
+
+.fini_array     0x1fff8978        0x4
+                0x1fff8978                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x1fff8978        0x4 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x1fff897c                PROVIDE (__fini_array_end, .)
+                0x1fff897c                __etext = .
+                0x1fff897c                __DATA_ROM = .
+                0x1fff897c                __DATA_END = __DATA_ROM
+
+.customSectionBlock
+                0x20000000        0x0
+                0x20000000                __customSection_start__ = .
+ *(.customSection)
+                0x20000000                __customSection_end__ = .
+                0x20000000                __CUSTOM_ROM = .
+                0x20000000                __CUSTOM_END = .
+
+.data           0x20000000      0x42c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __DATA_RAM = .
+                0x20000000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.impure_data
+                0x20000000      0x428 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+ *(.jcr*)
+ .jcr           0x20000428        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .jcr           0x20000428        0x4 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+                0x2000042c                . = ALIGN (0x4)
+                0x2000042c                __data_end__ = .
+
+.igot.plt       0x2000042c        0x0
+ .igot.plt      0x00000000        0x0 d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.bss            0x2000042c       0x1c
+                0x2000042c                . = ALIGN (0x4)
+                0x2000042c                __BSS_START = .
+                0x2000042c                __bss_start__ = .
+ *(.bss)
+ .bss           0x2000042c       0x1c d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+                0x20000448                . = ALIGN (0x4)
+                0x20000448                __bss_end__ = .
+                0x20000448                __BSS_END = .
+
+.heap           0x20000448      0x400
+                0x20000448                . = ALIGN (0x8)
+                0x20000448                __end__ = .
+                0x20000448                __heap_start__ = .
+                0x20000448                PROVIDE (end, .)
+                0x20000448                PROVIDE (_end, .)
+                0x20000448                PROVIDE (__end, .)
+                0x20000448                __HeapBase = .
+                0x20000848                . = (. + HEAP_SIZE)
+ *fill*         0x20000448      0x400 
+                0x20000848                __HeapLimit = .
+                0x20000848                __heap_limit = .
+                0x20000848                __heap_end__ = .
+                0x20007000                __StackTop = (ORIGIN (m_data) + 0x7000)
+                0x20006c00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20007000                PROVIDE (__stack, __StackTop)
+
+.stack          0x20006c00      0x400
+                0x20006c00                . = ALIGN (0x8)
+                0x20006c00                __stack_start__ = .
+                0x20007000                . = (. + STACK_SIZE)
+ *fill*         0x20006c00      0x400 
+                0x20007000                __stack_end__ = .
+                0x2000042c                __START_BSS = __BSS_START
+                0x20000448                __END_BSS = __BSS_END
+                0x20007000                __SP_INIT = __StackTop
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x00000068       0x33 ./Project_Settings/Startup_Code/startup.o
+ .ARM.attributes
+                0x0000009b       0x1b ./Project_Settings/Startup_Code/startup_S32K144.o
+ .ARM.attributes
+                0x000000b6       0x33 ./Project_Settings/Startup_Code/system_S32K144.o
+ .ARM.attributes
+                0x000000e9       0x33 ./src/main.o
+ .ARM.attributes
+                0x0000011c       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000014a       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000178       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001a6       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000001d4       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000202       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000230       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000025e       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000028c       0x2e D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000002ba       0x2e d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .ARM.attributes
+                0x000002e8       0x1e d:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+
+/DISCARD/
+ *(.FlashConfig)
+OUTPUT(McuAutosar.elf elf32-littlearm)
+
+.debug_info     0x00000000      0xac8
+ .debug_info    0x00000000      0x49c ./Project_Settings/Startup_Code/startup.o
+ .debug_info    0x0000049c       0x8a ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_info    0x00000526      0x516 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_info    0x00000a3c       0x8c ./src/main.o
+
+.debug_abbrev   0x00000000      0x274
+ .debug_abbrev  0x00000000      0x101 ./Project_Settings/Startup_Code/startup.o
+ .debug_abbrev  0x00000101       0x14 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_abbrev  0x00000115      0x118 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_abbrev  0x0000022d       0x47 ./src/main.o
+
+.debug_aranges  0x00000000       0x90
+ .debug_aranges
+                0x00000000       0x20 ./Project_Settings/Startup_Code/startup.o
+ .debug_aranges
+                0x00000020       0x20 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_aranges
+                0x00000040       0x30 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_aranges
+                0x00000070       0x20 ./src/main.o
+
+.debug_ranges   0x00000000       0x40
+ .debug_ranges  0x00000000       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_ranges  0x00000010       0x20 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_ranges  0x00000030       0x10 ./src/main.o
+
+.debug_macro    0x00000000    0x1ebfb
+ .debug_macro   0x00000000       0xa6 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000000a6       0x22 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000000c8       0x44 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000010c       0xe3 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000001ef       0x22 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000211      0x1df ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x000003f0       0x10 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x00000400       0x7a ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000047a     0xed32 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000f1ac      0xb86 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000fd32       0x22 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000fd54       0x40 ./Project_Settings/Startup_Code/startup.o
+ .debug_macro   0x0000fd94       0xa6 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0000fe3a       0x19 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0000fe53     0xed1d ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0001eb70       0x28 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_macro   0x0001eb98       0x63 ./src/main.o
+
+.debug_line     0x00000000      0x92e
+ .debug_line    0x00000000      0x318 ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x00000318       0x87 ./Project_Settings/Startup_Code/startup_S32K144.o
+ .debug_line    0x0000039f      0x333 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_line    0x000006d2      0x25c ./src/main.o
+
+.debug_str      0x00000000    0x6861d
+ .debug_str     0x00000000    0x68417 ./Project_Settings/Startup_Code/startup.o
+                              0x685a7 (size before relaxing)
+ .debug_str     0x00068417      0x1f3 ./Project_Settings/Startup_Code/system_S32K144.o
+                              0x68418 (size before relaxing)
+ .debug_str     0x0006860a       0x13 ./src/main.o
+                              0x6283a (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./Project_Settings/Startup_Code/startup.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./Project_Settings/Startup_Code/system_S32K144.o
+ .comment       0x00000000       0x71 ./src/main.o
+
+.debug_frame    0x00000000      0x260
+ .debug_frame   0x00000000       0x38 ./Project_Settings/Startup_Code/startup.o
+ .debug_frame   0x00000038       0x80 ./Project_Settings/Startup_Code/system_S32K144.o
+ .debug_frame   0x000000b8       0x28 ./src/main.o
+ .debug_frame   0x000000e0       0x28 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000108       0x2c D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00000134       0x34 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000168       0x50 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000001b8       0x20 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x000001d8       0x34 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x0000020c       0x34 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000240       0x20 D:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v4.9/gcc-arm-none-eabi-4_9/arm-none-eabi/newlib/lib/armv7e-m\libnosys.a(_exit.o)
