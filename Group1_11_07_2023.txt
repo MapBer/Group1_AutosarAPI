@@ -1,0 +1,7 @@
+Huy: Mcu Dependent properties: SMC and PMC
+Tu: Mcu Dependent properties: SIM, Reset Configuration: RCM
+Vo: Definition of clock settings
+Hien: Definition of MCU mode and RAM section
+
+Deadline: 11/07/2023
+	
