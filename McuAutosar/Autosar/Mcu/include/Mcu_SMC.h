@@ -63,7 +63,7 @@ extern "C"{
 ==================================================================================================*/
 /**
 * @brief    SMC memory map
-* @details  This structure contains information of the registers of SMC module
+* @details  This structure contains information of SMC module's Registers
 *
 * @note
 *
@@ -71,12 +71,12 @@ extern "C"{
 
 typedef struct {
 
-    CONST   (uint32, MCU_CONST) SMC_VERID;
-    CONST   (uint32, MCU_CONST) SMC_PARAM;
-    VAR     (uint32, MCU_VAR)   SMC_PMPROT;
-    VAR     (uint32, MCU_VAR)   SMC_PMCTRL;
-    VAR     (uint32, MCU_VAR)   SMC_STOPCTRL;
-    CONST   (uint32, MCU_CONST) SMC_PMSTAT;
+    CONST   (uint32, MCU_CONST) SMC_VERID;      /*SMC Version ID Register (SMC_VERID)*/
+    CONST   (uint32, MCU_CONST) SMC_PARAM;      /*SMC Parameter Register (SMC_PARAM)*/
+    VAR     (uint32, MCU_VAR)   SMC_PMPROT;     /*Power Mode Protection register (SMC_PMPROT)*/
+    VAR     (uint32, MCU_VAR)   SMC_PMCTRL;     /*Power Mode Control register (SMC_PMCTRL)*/
+    VAR     (uint32, MCU_VAR)   SMC_STOPCTRL;   /*Stop Control Register (SMC_STOPCTRL)*/
+    CONST   (uint32, MCU_CONST) SMC_PMSTAT;     /*Power Mode Status register (SMC_PMSTAT)*/
 
 } Mcu_SMC_ConfigType;
 

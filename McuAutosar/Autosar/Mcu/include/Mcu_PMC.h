@@ -61,8 +61,8 @@ extern "C"{
                                  STRUCTURES AND OTHER TYPEDEFS
 ==================================================================================================*/
 /**
-* @brief    SMC memory map
-* @details  This structure contains information of the registers of SMC module
+* @brief    PMC memory map
+* @details  This structure contains information of PMC module's Registers
 *
 * @note
 *
@@ -70,12 +70,12 @@ extern "C"{
 
 typedef struct {
 
-    VAR     (uint8, MCU_VAR)    LVDSC1;
-    VAR     (uint8, MCU_VAR)    LVDSC2;
-    VAR     (uint8, MCU_VAR)    REGSC;
-    VAR     (uint8, MCU_VAR)    LPOTRIM;
+    VAR  (uint8, MCU_VAR)  LVDSC1;  /*Low Voltage Detect Status and Control 1 Register (LVDSC1)*/
+    VAR  (uint8, MCU_VAR)  LVDSC2;  /*Low voltage Detect Status and Control 2 Register (LVDSC2)*/   
+    VAR  (uint8, MCU_VAR)  REGSC;   /*Regulator Status and Control Register (REGSC)*/
+    VAR  (uint8, MCU_VAR)  LPOTRIM; /*Low Power Oscillator Trim Register (LPOTRIM)*/
 
-} Mcu_PCM_ConfigType;
+} Mcu_PMC_ConfigType;
 
 
 #ifdef __cplusplus

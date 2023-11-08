@@ -75,7 +75,7 @@ typedef struct
     /**< @brief Configuration for SMC hardware IP. */
     P2CONST(Mcu_SMC_ConfigType, MCU_VAR, MCU_APPL_CONST) SMC_pConfig;
     /**< @brief Configuration for PMC hardware IP. */
-    P2CONST(Mcu_PCM_ConfigType, MCU_VAR, MCU_APPL_CONST) PMC_pConfig;
+    P2CONST(Mcu_PMC_ConfigType, MCU_VAR, MCU_APPL_CONST) PMC_pConfig;
 } Mcu_DepProsConfigType;
 
 /**
